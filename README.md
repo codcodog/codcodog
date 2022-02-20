@@ -5,4 +5,4 @@
 - :hocho: 日常开发基于 Arch Linux + Vim
 - :hammer: 热衷于工具的组合使用和自动化，十分厌恶重复性体力劳动
 
-> Keep It Simple, Stupid!
+> Don't repeat yourself
